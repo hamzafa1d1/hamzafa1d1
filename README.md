@@ -1,44 +1,75 @@
-![Hamza Faidi — .NET, React, cloud systems and AI-assisted delivery](assets/header.svg)
+<p align="center">
+  <img src="assets/hero-3d.png" alt="Hamza Faidi — .NET, React, cloud systems and AI-assisted delivery" width="100%" />
+</p>
 
-# Hamza Faidi
+<p align="center">
+  <a href="https://www.hfsoftwareservices.com/"><strong>Portfolio & contact ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="#selected-work">Selected work</a>
+  &nbsp; · &nbsp;
+  <a href="#open-source">Open source</a>
+</p>
 
-**.NET and React engineer building SaaS, payments and cloud systems.**
+I'm **Hamza**, a .NET and React engineer working on SaaS, payments and cloud systems. I bring backend depth, full-stack delivery and AI-assisted workflows with planning, review and verification.
 
-I work across backend APIs, web interfaces and cloud delivery, with a focus on reliable behavior and clear verification. I also use AI-assisted engineering workflows with planning, review and testing built into the delivery process.
+**Tunis, Tunisia** · Founder of **HF Software Services** · C/C++ and OOP instructor
 
-Based in Tunis, Tunisia. Founder of **HF Software Services**.
+## Selected work
 
-[Portfolio and contact](https://www.hfsoftwareservices.com/) · [System Design Coach](https://www.sysdesigncoach.org/)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 · System Design Coach</h3>
+<p>Chapter-based quizzes, explanations and saved progress for system-design practice.</p>
+<p><sub>React · TypeScript · Vite</sub></p>
+<p><a href="https://www.sysdesigncoach.org/"><strong>Live app ↗</strong></a> &nbsp; <a href="https://github.com/hamzafa1d1/SystemDesignForInterviewsTrainingQuizApp">Source code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 · Payment MCP Lab</h3>
+<p>Tools, resources and prompts over synthetic payment data. An independent learning lab with in-memory state.</p>
+<p><sub>TypeScript · MCP · Zod</sub></p>
+<p><a href="https://github.com/hamzafa1d1/mcpServer"><strong>Explore the lab ↗</strong></a> &nbsp; <a href="https://github.com/hamzafa1d1/mcpServer/actions/workflows/check.yml">Build & smoke check</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 · ASDLC Capstone Guide</h3>
+<p>Practical teaching material for agent-assisted delivery, verification and project milestones.</p>
+<p><sub>Engineering education · AI workflows</sub></p>
+<p><a href="https://hamzafa1d1.github.io/asdlc-capstone-guide/"><strong>Read the guide ↗</strong></a> &nbsp; <a href="https://github.com/hamzafa1d1/asdlc-capstone-guide">Source code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 · Typerr</h3>
+<p>Desktop typing metrics and correction tracking, with optional Gemini audit analysis.</p>
+<p><sub>Electron · React · TypeScript</sub></p>
+<p><a href="https://github.com/hamzafa1d1/typerr-desktop-app"><strong>Explore the project ↗</strong></a> &nbsp; <a href="https://github.com/hamzafa1d1/typerr-desktop-app/releases">Release assets</a></p>
+</td>
+</tr>
+</table>
 
-## Selected projects
+## What I work with
 
-| Project | What it demonstrates | Explore |
-|---|---|---|
-| **System Design Coach** | A React and TypeScript quiz companion with chapter practice, explanations and saved progress. | [Demo](https://www.sysdesigncoach.org/) · [Code](https://github.com/hamzafa1d1/SystemDesignForInterviewsTrainingQuizApp) |
-| **Payment MCP Lab** | A TypeScript learning project exploring MCP tools, resources and prompts with synthetic payment data. State is held in memory. | [Code and setup](https://github.com/hamzafa1d1/mcpServer) |
-| **ASDLC Capstone Guide** | Practical teaching material for agent-assisted software delivery, verification and project milestones. | [Guide](https://hamzafa1d1.github.io/asdlc-capstone-guide/) · [Code](https://github.com/hamzafa1d1/asdlc-capstone-guide) |
-| **HF Software Services** | My professional portfolio and engineering background. | [Website](https://www.hfsoftwareservices.com/) · [Code](https://github.com/hamzafa1d1/hfsoftwareservices) |
+**Backend** &nbsp; C# / .NET · TypeScript / Node.js  
+**Interfaces** &nbsp; React · Angular  
+**Data & cloud** &nbsp; SQL Server · PostgreSQL · AWS · Azure · Terraform  
+**Delivery** &nbsp; GitHub Actions · Playwright · MCP · agent workflows
 
-## Open source contributions
+Most commercial work lives in private repositories. My public projects show independent work, teaching and learning; they are labeled accordingly.
 
-Two contributions merged into [Twenty](https://github.com/twentyhq/twenty):
+## Open source
 
-- [Handle malformed stored filter values without crashing dropdowns](https://github.com/twentyhq/twenty/pull/18513).
-- [Repair the downloadFile promise chain and stabilize its unit test](https://github.com/twentyhq/twenty/pull/18484).
+Two contributions merged into **[Twenty](https://github.com/twentyhq/twenty)**:
 
-## Engineering background
+- **More resilient filters** — [handle malformed stored values without crashing dropdowns](https://github.com/twentyhq/twenty/pull/18513).
+- **More reliable tests** — [repair the downloadFile promise chain and stabilize its unit test](https://github.com/twentyhq/twenty/pull/18484).
 
-My professional work includes .NET payment and card workflows, SaaS APIs and interfaces, SQL diagnosis, cloud delivery and AI-assisted development practices. Most commercial work lives in private repositories; the projects here show selected independent work, learning and public contributions.
-
-**Backend:** C# / .NET, TypeScript / Node.js  
-**Frontend:** React, Angular  
-**Data and cloud:** SQL Server, PostgreSQL, AWS, Azure, Terraform  
-**Delivery:** GitHub Actions, Playwright, agent workflows and MCP
-
-## Learning and teaching
+<details>
+<summary><strong>More learning and teaching</strong></summary>
 
 I teach C/C++ and object-oriented programming and share practical engineering guides. My [AWS Terraform lab](https://github.com/hamzafa1d1/TerraformAWSAutomationProject) explores reusable infrastructure modules and separate environment roots.
 
-## Get in touch
+</details>
 
-For engineering work or a project conversation, visit [HF Software Services](https://www.hfsoftwareservices.com/).
+---
+
+**Have a project in mind?** [See my engineering background and get in touch ↗](https://www.hfsoftwareservices.com/)
